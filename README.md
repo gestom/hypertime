@@ -8,6 +8,6 @@ The idea builds on the success of the Frequency Map Enhancement ([FreMEn](http:/
 For details, please refer to the papers published so far:
 
 ### References
-1. T.Krajnik, T.Vintr, S.Molina, J.P.Fentanes, G.Cielniak, T.Duckett: <b>[Warped Hypertime Representations for Long-term Autonomy of Mobile Robots](http://raw.githubusercontent.com/wiki/gestom/hypertime/papers/hypertime.pdf)</b> Arxiv, 2018. [[bibtex](http://raw.githubusercontent.com/wiki/gestom/hypertime/papers/hypertime_2019.bib)]
+1. T.Krajnik, T.Vintr, S.Molina, J.P.Fentanes, G.Cielniak, T.Duckett: <b>[Warped Hypertime Representations for Long-term Autonomy of Mobile Robots](http://raw.githubusercontent.com/wiki/gestom/hypertime/papers/hypertime.pdf)</b> Arxiv, 2018. [[bibtex](http://raw.githubusercontent.com/wiki/gestom/hypertime/papers/hypertime.bib)]
 
-2. T.Vintr, Z.Yan, T.Duckett, T.Krajník: <b>[Spatio-temporal representation for long-term anticipation of human presence in service robotics.](http://raw.githubusercontent.com/wiki/gestom/hypertime/papers/hypertime.pdf)</b> In proceedings of the IEEE International Conference on Robotics and Automation (ICRA), 2019. [[bibtex](http://raw.githubusercontent.com/wiki/gestom/hypertime/papers/hypertime_2019_ICRA.bib)]
+2. T.Vintr, Z.Yan, T.Duckett, T.Krajník: <b>[Spatio-temporal representation for long-term anticipation of human presence in service robotics.](http://raw.githubusercontent.com/wiki/gestom/hypertime/papers/pedestrians_ICRA_2019.pdf)</b> In proceedings of the IEEE International Conference on Robotics and Automation (ICRA), 2019. [[bibtex](http://raw.githubusercontent.com/wiki/gestom/hypertime/papers/pedestrians_ICRA_2019.bib)]
