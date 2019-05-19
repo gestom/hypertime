@@ -1,0 +1,9 @@
+*
+!.gitignore
+!draw_summary_skelet.gnu
+!Makefile
+!process_dataset.sh
+!process_large.sh
+!summarize_large.sh
+!summarize_results.sh
+!t-test.cpp

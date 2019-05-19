@@ -1,0 +1,11 @@
+FreMEn 1 2 3 4 5 
+HyT-KM 0
+HyT-EM 1 2 3 4 5
+Mean	 0
+#None     0
+Hist 1 4 12 24
+
+#GMM 	 1 2 3 4 5
+#VonMises 1 2 3 4 5 
+
+# The '#' means that model is neither calculated (in process_dataset.sh), nor evaluated (in summarize_results.sh). '!' means that the model is not calculated (because it was calculated in the past), but it's evaluated. 
