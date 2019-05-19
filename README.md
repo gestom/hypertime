@@ -1,10 +1,9 @@
 ### What is Hypertime ?
 
 The Wrapped Hypertime (WHyTe) is an enabling technology for long-term mobile robot autonomy in changing environments [[1](#references)], but is applicable to problems outside the robotics domain.
-It allows to introduce the notion of dynamics into most spatial models used in the mobile robotics domain, improving the robots'' ability to cope with naturally-occuring environment changes.
-Hypertime is based on an assumption that from a mid- to long-term perspective, some of the environment dynamics are periodic.
-To reflect that, Hypertime models 
-The idea builds on the success of the Frequency Map Enhancement ([FreMEn](http://fremen.uk)), which environment states by combination of periodic functions efficiently modelling periodic properties of the changes observed.
+It allows to introduce the notion of dynamics into most spatial models used in the mobile robotics domain, improving ability of robots to cope with naturally-occuring environment changes. Hypertime is based on an assumption that from a mid- to long-term perspective, some of the environment dynamics are periodic. To reflect that, Hypertime models extend spatial models with a set of wrapped time dimensions that represent the periodicities of the observed variations. By performing clustering over this extended representation, the obtained model allows the prediction of probabilistic distributions of future states and events in both discrete and continuous spatial representations.
+
+The idea builds on the success of the Frequency Map Enhancement ([FreMEn](http://fremen.uk)), which also models periodic changes and was shown to improve efficiency of mobile robots as they learned the dynamics of their operational environments.
 
 For details, please refer to the papers published so far:
 
